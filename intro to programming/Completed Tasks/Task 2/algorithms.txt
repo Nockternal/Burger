@@ -1,0 +1,15 @@
+variable_first_name = userinput
+print Hello, World this is {variable_first_name}
+
+_______________________________________________________
+
+variable_age = integer input
+
+if age is greater or equal to 18
+	print You're old enough
+
+elif age greater than 15 and smaller than 18
+	print Almost there 
+
+else 
+	print You're just too young

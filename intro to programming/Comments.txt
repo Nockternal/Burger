@@ -1,0 +1,50 @@
+Hi there!
+
+Please don't hesitate to leave a comment here if you need any assistance. This will be checked daily :) Good luck and we look forward to working with you!
+===
+
+2018/11/05 - 9:53		Task 1 Complete
+2018/11/05 - 11:30		Task 2 Complete
+2018/11/05 - 12:09		Task 3 Complete
+2018/11/05 - 12:15 		Task 4 Complete
+2018/11/05 - 14:55		Task 5 Complete
+2018/11/05 - 17:08		Task 6 Complete
+2018/11/05 - 21:22		Task 7 Complete
+2018/11/05 - 22:07		Task 8 Complete - asked for a password and checked if 3 out of 4 booleans are True
+2018/11/06 - 10:03		Task 9 Complete
+2018/11/06 - 10:15		Task 10 Complete - Took previous task and added the elif.
+2018/11/06 - 10:44		Task 11 Complete
+2018/11/06 - 11:04		Task 12 Complete
+=====
+Hi Burger, 
+
+You are flying through these tasks, checking out your submissions now
+====
+Hi Burger,
+
+Nice work on all the tasks, perfect execution even going a step further or using advanced techniques to solve them. 
+
+====
+
+2018/11/06 - 11:34		Task 13 Complete
+2018/11/06 - 11:53		Task 14 Complete
+2018/11/06 - 12:11		Task 15 Complete
+2018/11/06 - 12:40		Task 16 Complete - task files fixed and logic.py created with a few examples
+2018/11/06 - 13:36		Task 17.1		i have a bit of a problem. when i use string "Hello World" the output is "HeLLO WORLD"
+										When i comment that out and use same variable with "abcdefg hijklmnop" i get it correctly "AbCdEfG HiJkLmNoP"
+										Not sure what the reason for this it. in file alternative.py
+2018/11/06 - 14:02		Task 17 Complete - with exception of 17.1 bug
+2018/11/06 - 14:21		Task 18 Complete - no name was given to save under i used readfile.py
+2018/11/06 - 14:41		Task 19 Complete
+2018/11/06 - 15:30		Task 20 Complete
+2018/11/06 - 15:40		Task 21 Complete
+2018/11/06 - 21:06		Task 22 Complete - Not sure what the instruction is with regards to 22.2 as they info is there already to create
+2018/11/06 - 21:55		Task 23 Complete - Added 2 methods for calculation
+2018/11/06 - 22:58		Task 24 Complete
+2018/11/07 - 12:33		Task 25 Complete - i wanted to run a for loop for teh 3 character pairs 
+											collected and for every item there run it through every 
+											value in the dictionary and then prting out the key. 
+											But i couldnt get that right. have you done something 
+											like that before? or is it possible especially if a 
+											key has a few values.?
+
